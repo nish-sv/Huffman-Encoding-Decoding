@@ -1,0 +1,104 @@
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/huffman.py:54: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_encode_res1.txt' mode='a' encoding='UTF-8'>
+  save_char(node.symbol, result,fname,code)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/huffman.py:54: ResourceWarning: unclosed file <_io.TextIOWrapper name='code.txt' mode='a' encoding='UTF-8'>
+  save_char(node.symbol, result,fname,code)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:24: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_encode1.txt' mode='r' encoding='UTF-8'>
+  encode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:24: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_encode_res1.txt' mode='w+' encoding='UTF-8'>
+  encode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:24: ResourceWarning: unclosed file <_io.TextIOWrapper name='code.txt' mode='w+' encoding='UTF-8'>
+  encode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/miniconda3/lib/python3.8/unittest/case.py:633: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_encode_res1.txt' mode='r' encoding='UTF-8'>
+  method()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+./home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:37: ResourceWarning: unclosed file <_io.TextIOWrapper name='code.txt' mode='r' encoding='UTF-8'>
+  decode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:37: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_encode_res1.txt' mode='r' encoding='UTF-8'>
+  decode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:37: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_decode_res1.txt' mode='w+' encoding='UTF-8'>
+  decode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/miniconda3/lib/python3.8/unittest/case.py:633: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_decode_res1.txt' mode='r' encoding='UTF-8'>
+  method()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+./home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/huffman.py:54: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_encode_res2.txt' mode='a' encoding='UTF-8'>
+  save_char(node.symbol, result,fname,code)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:60: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_encode2.txt' mode='r' encoding='UTF-8'>
+  encode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:60: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_encode_res2.txt' mode='w+' encoding='UTF-8'>
+  encode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:60: ResourceWarning: unclosed file <_io.TextIOWrapper name='code.txt' mode='w+' encoding='UTF-8'>
+  encode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/miniconda3/lib/python3.8/unittest/case.py:633: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_encode_res2.txt' mode='r' encoding='UTF-8'>
+  method()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+./home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:74: ResourceWarning: unclosed file <_io.TextIOWrapper name='code.txt' mode='r' encoding='UTF-8'>
+  decode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:74: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_encode_res2.txt' mode='r' encoding='UTF-8'>
+  decode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:74: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_decode_res2.txt' mode='w+' encoding='UTF-8'>
+  decode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/miniconda3/lib/python3.8/unittest/case.py:633: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_decode_res2.txt' mode='r' encoding='UTF-8'>
+  method()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+./home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/huffman.py:54: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_encode_res3.txt' mode='a' encoding='UTF-8'>
+  save_char(node.symbol, result,fname,code)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:98: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_encode3.txt' mode='r' encoding='UTF-8'>
+  encode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:98: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_encode_res3.txt' mode='w+' encoding='UTF-8'>
+  encode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:98: ResourceWarning: unclosed file <_io.TextIOWrapper name='code.txt' mode='w+' encoding='UTF-8'>
+  encode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/miniconda3/lib/python3.8/unittest/case.py:633: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_encode_res3.txt' mode='r' encoding='UTF-8'>
+  method()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+./home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:112: ResourceWarning: unclosed file <_io.TextIOWrapper name='code.txt' mode='r' encoding='UTF-8'>
+  decode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:112: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_encode_res3.txt' mode='r' encoding='UTF-8'>
+  decode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/Nishanth/Training/Huffman-Encoding-Decoding/test.py:112: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_decode_res3.txt' mode='w+' encoding='UTF-8'>
+  decode(f_in, f_out)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/mcw/miniconda3/lib/python3.8/unittest/case.py:633: ResourceWarning: unclosed file <_io.TextIOWrapper name='test_decode_res3.txt' mode='r' encoding='UTF-8'>
+  method()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+.
+----------------------------------------------------------------------
+Ran 6 tests in 0.004s
+
+OK
+encoding  test_encode1.txt test_encode_res1.txt
+Encoded..
+Codes stored..
+decoding  test_encode_res1.txt test_decode_res1.txt
+Decod ended...
+encoding  test_encode2.txt test_encode_res2.txt
+Encoded..
+Codes stored..
+decoding  test_encode_res2.txt test_decode_res2.txt
+Decod ended...
+encoding  test_encode3.txt test_encode_res3.txt
+Encoded..
+Codes stored..
+decoding  test_encode_res3.txt test_decode_res3.txt
+Decod ended...
